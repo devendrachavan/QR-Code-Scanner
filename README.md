@@ -11,6 +11,8 @@ In this tutorial, you’ll learn how to build a **QR Code Scanner App** in Andro
 ▶️ **Watch the Full Video Tutorial Here**  
 🔗 [https://youtu.be/gdWqDkqu3_o](https://youtu.be/gdWqDkqu3_o)
 
+## 📽️ YouTube Channel
+🎥 [Watch on YouTube](https://www.youtube.com/codingwithdev)  
 > Don't forget to **👍 Like**, **👤 Share**, **✍️ Comment**, and **☝ Subscribe** to the channel for more Android tutorials!
 
 ---
